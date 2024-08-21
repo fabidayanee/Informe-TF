@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="img/image1.png" alt="Logo de UPC" width="100%">
+  <img src="image1.png" alt="Logo de UPC" width="100%">
 </p>
 
 <div align="center">
@@ -26,9 +26,9 @@ Grupo: 1
 |          Integrantes          |      Código      |
 |:-----------------------------:|:-------------------:|
 |      |        |
-|     |        |
-|     |       |
-|     |        |
+|      |        |
+|      |        |
+|      |        |
 |Ticona Panduro, Estrella del Pilar| u202210659|
 
 
