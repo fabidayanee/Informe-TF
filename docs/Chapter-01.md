@@ -4,7 +4,7 @@
 
 ### 1.1.1. Descripción de la StartUp
 
-Nuestro sitio web ofrece el servicio de asistencia de perito en el área médica de anestesiología. Nuestros clientes pueden ser médicos que requieran alguna defensa legal y/o estudiantes de medicina que requieran de una asesoría sobre lo que implica estudiar peritaje en anestesiología, y además darle oportunidades laborales a personas que hayan estudiado peritaje en anestesiología. Para que nuestra plataforma sea autosostenible los clientes pueden adquirir diversos planes de suscripción.
+Plataforma que conecte abogados especializados en Medicina con un amplio numero de doctores que se encuentren en problemas legales por alguna mala praxis o alguna posible negligencia medica, para que el abogado escoja a que doctor llevarle su caso, acorde a que rama de la medicina manejas mas el abogado.
 
 Misión:
 
@@ -33,43 +33,73 @@ Los antecedentes son esenciales para una comprensión más profunda de la proble
 
 **What:**
 
-- ¿Qué situación específica o problema surge cuando algo sale mal en una operación?
-- ¿Qué tipo de ayuda necesitan los médicos en estos casos?
-- ¿Qué papel desempeñan los abogados o personas de confianza en la defensa legal de los médicos?
+- ¿Qué tipo de problemas legales enfrentan comúnmente los doctores en relación a la mala praxis o negligencia médica?
+
+Los doctores suelen enfrentar demandas por supuesta mala praxis o negligencia médica, que pueden incluir errores en diagnósticos, tratamientos inadecuados o falta de consentimiento informado.
+
+- ¿Qué tipo de apoyo legal necesitan los doctores cuando enfrentan una acusación de mala praxis o negligencia?
+
+Los doctores necesitan un abogado especializado que comprenda tanto los aspectos médicos como legales del caso, para poder construir una defensa sólida basada en evidencias y estándares médicos.
 
 **Where:**
 
-- ¿Dónde suelen ocurrir estos problemas durante las operaciones (en qué tipo de entorno médico)?
-- ¿Dónde podrían los médicos buscar ayuda legal en caso de enfrentar una situación complicada?
+- ¿Dónde suelen surgir los problemas legales para los doctores (en qué tipo de entorno médico o situación)?
+
+Los problemas legales suelen surgir en hospitales, clínicas y consultorios privados, especialmente en situaciones de emergencias médicas o procedimientos complejos donde el margen de error es reducido.
+
+- ¿Dónde pueden los doctores buscar ayuda legal cuando enfrentan acusaciones de mala praxis o negligencia?
+
+Los doctores pueden buscar ayuda legal en bufetes especializados en derecho médico o a través de plataformas que conecten a doctores con abogados expertos en este tipo de casos.
 
 **When:**
 
-- ¿Cuándo suele surgir la necesidad de asesoramiento legal para los médicos en casos de problemas durante una operación?
-- ¿Cuándo se requiere la presencia de peritos en anestesiología en situaciones legales?
+- ¿Cuándo suelen los doctores necesitar la intervención de un abogado especializado en medicina?
+
+Los doctores necesitan la intervención de un abogado especializado tan pronto como se les notifica de una posible demanda o investigación por mala praxis o negligencia.
+
+- ¿Cuándo es el momento crítico en el que un abogado debe involucrarse en un caso de mala praxis o negligencia médica?
+
+El momento crítico es antes de que se inicie un proceso legal formal, para que el abogado pueda recopilar pruebas y preparar la defensa del doctor desde el principio.
 
 **Who:**
 
-- ¿Quiénes son los principales afectados cuando ocurre un problema durante una operación?
-- ¿Quiénes son los médicos que podrían necesitar asesoramiento legal en tales situaciones?
-- ¿Quiénes podrían ser los posibles culpables que se buscan cuando algo sale mal en una operación?
+- ¿Quiénes son los doctores que más necesitan apoyo legal en casos de mala praxis o negligencia?
+
+Los doctores que realizan procedimientos de alto riesgo o que trabajan en áreas como cirugía, anestesiología y ginecología son los que más necesitan apoyo legal debido a la naturaleza delicada de su trabajo.
+
+- ¿Quiénes son los abogados especializados que se beneficiarían al utilizar la plataforma para conectar con estos doctores?
+
+Los abogados con experiencia en derecho médico, que entienden las complejidades de los casos de mala praxis y negligencia, se beneficiarían al encontrar clientes cuyas necesidades se alineen con su especialización.
 
 **Why:**
 
-- ¿Por qué los médicos tienden a buscar culpables más allá de la razón cuando algo sale mal en una operación?
-- ¿Por qué es importante proporcionar apoyo legal a los médicos en tales situaciones?
-- ¿Por qué la presencia de peritos en anestesiología es crucial en casos legales relacionados con operaciones?
+- ¿Por qué es importante que los doctores tengan acceso a abogados especializados en medicina en situaciones legales?
+
+Es crucial porque los abogados especializados tienen el conocimiento necesario para defender adecuadamente a los doctores, comprendiendo tanto las prácticas médicas como las implicaciones legales.
+
+- ¿Por qué los abogados deben escoger cuidadosamente a los doctores que defienden en función de su especialidad?
+
+Los abogados deben escoger cuidadosamente para asegurar que su experiencia y conocimientos legales se alineen con las particularidades del caso médico, lo que aumenta las posibilidades de una defensa exitosa.
 
 **How:**
 
-- ¿Cómo pueden los médicos acceder a asesoramiento legal cuando lo necesitan?
-- ¿Cómo pueden los médicos convertirse en peritos en anestesiología para brindar apoyo en casos legales?
-- ¿Cómo se puede implementar un sistema eficaz para ayudar a los médicos en situaciones legales relacionadas con operaciones?
+- ¿Cómo pueden los abogados utilizar la plataforma para seleccionar a los doctores cuyas necesidades legales mejor coincidan con su especialidad?
+
+Los abogados pueden utilizar filtros y algoritmos en la plataforma para buscar casos específicos que coincidan con su experiencia y especialidad médica, asegurando una conexión efectiva y relevante.
+
+- ¿Cómo pueden los doctores acceder a abogados especializados a través de la plataforma?
+
+Los doctores pueden registrarse en la plataforma, describir su situación legal y recibir propuestas de abogados especializados, eligiendo al que mejor se ajuste a sus necesidades.
 
 **How much:**
 
-- ¿Cuánto tiempo suele llevar resolver legalmente un problema relacionado con una operación médica?
-- ¿Cuánto costo puede implicar para un médico enfrentar una situación legal sin asesoramiento adecuado?
-- ¿Cuántos médicos podrían beneficiarse de un sistema que brinde asesoramiento legal y apoyo en casos de problemas durante operaciones?
+- ¿Cuánto tiempo puede tomar para un abogado especializado encontrar el caso adecuado para su experiencia a través de la plataforma?
+
+El tiempo puede variar, pero con una plataforma eficiente, un abogado podría encontrar un caso adecuado en cuestión de días o incluso horas, dependiendo de la demanda y especificidad de los casos.
+
+- ¿Cuánto puede costarle a un doctor obtener asesoramiento y representación legal especializada utilizando la plataforma?
+
+Los costos pueden variar según la complejidad del caso y la experiencia del abogado, pero la plataforma podría ofrecer planes de suscripción o tarifas planas para facilitar el acceso a servicios legales especializados.
 
 ### 1.2.2. Lean UX Process
 
@@ -77,11 +107,11 @@ Los antecedentes son esenciales para una comprensión más profunda de la proble
 
 **Problem Statement**
 
-Nuestra futura plataforma de asistencia de perito en anestesiología tiene como objetivo proporcionar acceso fácil y confiable a servicios especializados para médicos en busca de defensa legal y estudiantes de medicina interesados en obtener asesoramiento sobre peritaje en anestesiología, además de ofrecer oportunidades laborales en este campo altamente especializado. Sin embargo, enfrentamos diversos desafíos, como la constante evolución de las demandas legales en medicina, la competencia en la educación médica en línea, y la necesidad de asegurar que la plataforma permanezca alineada con sus objetivos iniciales.
+Nuestra futura plataforma de conexión entre abogados especializados en medicina y doctores en problemas legales tiene como objetivo proporcionar una solución efectiva y accesible para que los doctores puedan encontrar el apoyo legal adecuado cuando enfrentan acusaciones de mala praxis o negligencia médica. Sin embargo, enfrentamos diversos desafíos, como la falta de conocimiento entre los doctores sobre los abogados más adecuados para sus casos específicos, y la dificultad para los abogados de encontrar casos que coincidan con su especialidad médica.
 
-Para abordar estos desafíos, debemos aprovechar las oportunidades presentes en el mercado. Enfocándonos en un nicho específico como la anestesiología, podemos diferenciarnos de otras plataformas más generalistas. La implementación de tecnología avanzada, como la inteligencia artificial, mejorará la precisión y eficiencia del asesoramiento legal. Colaborar con expertos reconocidos aumentará la credibilidad de la plataforma, y ofrecer una combinación de recursos educativos y oportunidades laborales creará una propuesta de valor integral para los usuarios.
+Para abordar estos desafíos, debemos aprovechar las oportunidades presentes en el mercado. Enfocándonos en atraer a abogados especializados que busquen expandir su cartera de clientes en el ámbito médico y ofreciendo a los doctores un proceso sencillo y confiable para conectarse con los profesionales más adecuados para su situación legal. La confianza que queremos generar en nuestra plataforma será mayor si establecemos colaboraciones con asociaciones médicas y colegios de abogados, y garantizamos que los casos asignados estén bien alineados con la experiencia de los abogados.
 
-Nuestras estrategias de mejora incluyen la actualización continua del contenido para mantenernos al día con las normativas y avances en anestesiología y derecho médico, la creación de contenido altamente especializado, la mejora de la experiencia del usuario mediante una interfaz intuitiva, el desarrollo de una estrategia de marketing robusta y la formación de alianzas con instituciones educativas y organizaciones médicas. Además, estableceremos métricas claras para medir el éxito de la plataforma, como el aumento en la adopción de usuarios y la satisfacción del cliente, realizando evaluaciones periódicas para ajustar las estrategias según sea necesario.
+Nuestras estrategias de mejora incluyen la actualización continua de los perfiles de los abogados para reflejar sus áreas de especialización, la optimización de los algoritmos de coincidencia para conectar a doctores y abogados de manera más precisa, y la implementación de un sistema de retroalimentación que permita mejorar continuamente la experiencia de los usuarios en la plataforma.
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -89,34 +119,33 @@ Nuestras estrategias de mejora incluyen la actualización continua del contenido
 
 - ¿Quién es el usuario?
 
-El usuario puede ser un médico que necesite defensa legal en casos relacionados con anestesiología o un estudiante de medicina interesado en obtener asesoramiento sobre el peritaje en anestesiología. Además, personas que han estudiado peritaje en anestesiología y buscan oportunidades laborales pueden ser usuarios potenciales.
+El usuario es un abogado especializado en derecho médico que busca casos en los que su experiencia sea más relevante recibiendo asi el servicio de poder tener varios casos a los que llevar. Sin dejar de lado la participacion fundamental del medico en el proceso ya que es quien recibe el asesoramiento del abogado.
 
 - ¿Dónde encaja nuestro producto, en su trabajo o vida?
 
-Nuestro producto encaja en la vida profesional de médicos y estudiantes de medicina, así como en la búsqueda de empleo de personas con experiencia en peritaje en anestesiología. Para los médicos, el producto puede ayudar a resolver problemas legales relacionados con la anestesiología, mientras que para los estudiantes y profesionales del peritaje en anestesiología, puede proporcionar oportunidades laborales y asesoramiento educativo.
+Nuestro producto encaja en la vida profesional de médicos que enfrentan desafíos legales relacionados con su práctica médica. Para los abogados, la plataforma les ayuda a encontrar casos que se ajusten a su especialización, permitiéndoles expandir su cartera de clientes de manera efectiva. Además, consultorios y hospitales pueden utilizar la plataforma para obtener apoyo legal preventivo y reactivo.
 
 - ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
 
-- Problema 1: Falta de acceso a expertos en anestesiología para asesoramiento legal o educativo.
+-- Problema 1: Dificultad para que los médicos encuentren abogados especializados en medicina con experiencia en el área específica de su caso.
 
-  - Solución: Nosotros ofrecemos una plataforma donde los usuarios puedan encontrar peritos en anestesiología
-    disponibles para asistencia legal y orientación educativa.
+Solución: Nosotros ofrecemos una plataforma que permite a los médicos filtrar y seleccionar abogados en función de su especialización médica y experiencia previa.
 
-- Problema 2: Falta de oportunidades laborales específicas en el campo del peritaje en anestesiología
+-- Problema 2: Abogados que no logran encontrar casos que coincidan con su área específica de especialización.
 
-  - Solución: El sistema puede conectar a los usuarios con empleadores que buscan estos perfiles.
+Solución: El sistema puede conectar a los abogados con médicos que necesitan defensa en su área de experiencia, optimizando la coincidencia entre casos y abogados.
 
 - ¿Cuándo y cómo es usado nuestro producto?
 
-Nuestro producto podría ser utilizado por los usuarios en momentos en que enfrenten situaciones legales relacionadas con la anestesiología, como demandas por errores médicos. También podría ser utilizado por estudiantes de medicina interesados en aprender más sobre el peritaje en anestesiología y por profesionales que buscan oportunidades laborales en este campo. El producto sería utilizado a través de la plataforma en línea, donde los usuarios pueden acceder a los servicios de asesoramiento legal, educativo y de empleo.
+Nuestro producto podría ser utilizado por los médicos en momentos críticos, como al recibir una notificación de una demanda por mala praxis o durante una investigación interna por posibles negligencias. Los abogados lo utilizarán de manera continua para buscar nuevos casos y gestionar sus actuales, optimizando su tiempo y esfuerzo en casos que mejor se adapten a su experiencia. La plataforma sería utilizada a través de un portal en línea, donde tanto médicos como abogados pueden interactuar, acceder a información detallada y gestionar sus necesidades legales.
 
 - ¿Qué características son importantes?
 
-Características importantes pueden incluir un directorio de peritos en anestesiología disponibles para asistencia legal, recursos educativos sobre el peritaje en anestesiología, una sección de ofertas de empleo para profesionales en este campo, opciones de suscripción para acceder a diferentes niveles de servicios y una interfaz fácil de usar y navegación intuitiva.
+Características importantes pueden incluir un sistema de coincidencia avanzado que conecte médicos con abogados según la especialización médica requerida, un directorio detallado de abogados especializados, opciones para asesoría legal preventiva, y una interfaz fácil de usar con acceso seguro a documentos y comunicaciones. También serían útiles las opciones de suscripción para acceder a servicios premium, como asistencia legal de emergencia.
 
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 
-El producto debe tener una apariencia profesional y confiable, con un diseño limpio y fácil de entender. Debe comportarse de manera eficiente, brindando acceso rápido y fácil a los recursos y servicios necesarios para los usuarios. La plataforma debe ser intuitiva y fácil de navegar, con opciones claras y concisas para acceder a diferentes funciones y servicios.
+El producto debe tener una apariencia profesional, confiable y de alta calidad, con un diseño limpio y una paleta de colores sobria que inspire confianza. Debe comportarse de manera rápida y eficiente, con tiempos de respuesta cortos, y ofrecer una navegación intuitiva para que los usuarios puedan acceder fácilmente a los servicios y recursos que necesitan. La interfaz debe ser clara, con opciones bien organizadas y una experiencia de usuario que minimice la complejidad en momentos de estrés.
 
 **User Outcomes**
 
