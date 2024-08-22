@@ -149,66 +149,85 @@ El producto debe tener una apariencia profesional, confiable y de alta calidad, 
 
 **User Outcomes**
 
-- **Acceso a Asistencia Especializada:** Los usuarios, ya sean médicos que necesiten defensa legal o estudiantes de medicina buscando orientación sobre el peritaje en anestesiología, buscan acceso fácil y rápido a asistencia especializada en el campo. Este outcome se centra en la capacidad de los usuarios para obtener ayuda experta y específica cuando la necesiten, lo que les proporciona confianza y apoyo en situaciones críticas o decisiones importantes.
+- Acceso a Casos Legales Especializados:
 
-- **Oportunidades Laborales:** Para aquellos usuarios que hayan estudiado peritaje en anestesiología, el outcome deseado es la identificación y acceso a oportunidades laborales relevantes en su campo. Esto podría incluir ofertas de trabajo, oportunidades de consultoría o proyectos freelance dentro de la especialidad. El éxito se mide por la capacidad de la plataforma para conectar a estos usuarios con oportunidades laborales que se ajusten a sus habilidades y aspiraciones profesionales.
+Los abogados que se registran en la plataforma buscan acceso fácil y rápido a casos legales que se alineen con su especialización en derecho médico. Este outcome se centra en la capacidad de los abogados para encontrar y seleccionar casos en los que puedan aplicar su experiencia específica, aumentando su eficacia y éxito en la defensa de médicos involucrados en problemas de mala praxis o negligencia.
 
-- **Educación y Orientación Profesional:** Para los estudiantes de medicina interesados en la anestesiología, así como para otros profesionales en busca de orientación, el outcome deseado es recibir educación y orientación profesional en el campo del peritaje en anestesiología. Esto incluiría recursos informativos, consejos prácticos, y posiblemente mentoría por parte de expertos en el campo. El éxito se evalúa por la utilidad y relevancia de la información proporcionada, así como por el impacto positivo en la trayectoria profesional y el desarrollo de los usuarios.
+- Conexión con Doctores Necesitados de Defensa Legal:
+
+El outcome deseado para los abogados es la capacidad de identificar y conectarse con doctores que enfrentan problemas legales relacionados con su especialidad médica. Esto incluye la posibilidad de seleccionar casos donde su experiencia y conocimiento legal sean cruciales para la defensa. El éxito se mide por la efectividad de la plataforma para emparejar a los abogados con doctores cuyos casos requieren su intervención, optimizando así los recursos y maximizando las oportunidades de éxito.
+
+- Educación y Crecimiento Profesional:
+
+Para los abogados, el outcome deseado es mejorar su conocimiento sobre áreas específicas de la medicina que pueden ser críticas en sus casos, así como acceder a recursos y mentoría para mantenerse al día con las últimas tendencias y normativas en derecho médico. Esto les permitirá ofrecer una defensa más robusta y especializada. El éxito se evalúa por el aumento en la calidad de las defensas legales que los abogados pueden ofrecer y por su crecimiento profesional en el ámbito del derecho médico.
 
 **Business Assumptions**
 
 - ¿Cuál es nuestro mercado objetivo y cómo podemos alcanzarlo?
 
-Nuestro mercado objetivo son médicos que necesiten defensa legal en casos relacionados con anestesiología, estudiantes de medicina interesados en el peritaje en anestesiología y profesionales del peritaje en anestesiología en busca de oportunidades laborales. Podemos alcanzarlos mediante campañas de marketing dirigidas a instituciones médicas, facultades de medicina y asociaciones profesionales relacionadas con la anestesiología.
+Nuestro mercado objetivo son abogados especializados en derecho médico que buscan casos legales en el ámbito de la medicina, particularmente en áreas relacionadas con mala praxis y negligencia médica. Podemos alcanzarlos mediante campañas de marketing dirigidas a colegios de abogados, asociaciones de derecho médico, y a través de alianzas con bufetes de abogados que ya trabajan en el sector de la salud. También podemos utilizar estrategias digitales como SEO y marketing de contenido para atraer a abogados que buscan especializarse en derecho médico.
 
 - ¿Cuál es nuestra estrategia de monetización y cómo podemos garantizar la rentabilidad?
 
-Nuestra estrategia de monetización se basa en ofrecer planes de suscripción para acceder a los servicios de la plataforma. Además, podemos generar ingresos a través de asociaciones con instituciones médicas para ofrecer servicios adicionales, como programas de formación continua en anestesiología. Para garantizar la rentabilidad, debemos asegurarnos de que nuestros planes de suscripción están estratégicamente diseñados para atraer a los usuarios y ofrecer un valor significativo.
+Nuestra estrategia de monetización se basa en ofrecer planes de suscripción premium para abogados que deseen acceso exclusivo a casos legales relevantes y a herramientas avanzadas para gestionar sus casos. Además, podemos generar ingresos a través de comisiones por la coincidencia de casos, o mediante asociaciones con bufetes y organizaciones legales que deseen acceder a una base de datos ampliada de casos médicos. Para garantizar la rentabilidad, debemos asegurarnos de que nuestros planes de suscripción y tarifas estén competitivamente fijados y ofrezcan un valor significativo a los abogados, incentivando la lealtad y la renovación.
 
 - ¿Cuáles son nuestros costos operativos y cómo podemos mantenerlos bajo control?
 
-Nuestros costos operativos incluirían el desarrollo y mantenimiento de la plataforma web, así como los costos asociados con la contratación de personal especializado en anestesiología para proporcionar servicios de asesoramiento legal y educativo. Para mantener estos costos bajo control, podemos considerar la externalización de ciertas funciones y la optimización de nuestros procesos internos.
+Nuestros costos operativos incluirían el desarrollo y mantenimiento de la plataforma web, marketing dirigido a los abogados, y el soporte técnico especializado para garantizar que la plataforma funcione sin problemas. Para mantener estos costos bajo control, podemos optar por la externalización de ciertos servicios como el desarrollo tecnológico y la atención al cliente, además de la automatización de procesos internos. También es crucial realizar un seguimiento continuo de los gastos y optimizar la asignación de recursos.
 
 - ¿Cuál es nuestra estrategia de crecimiento a corto y largo plazo?
 
-A corto plazo, nuestra estrategia de crecimiento puede centrarse en la adquisición de usuarios y la mejora de la plataforma para aumentar la retención. A largo plazo, podemos expandir nuestros servicios para incluir otras áreas de especialización médica y buscar asociaciones estratégicas con instituciones médicas y empresas del sector de la salud.
+A corto plazo, nuestra estrategia de crecimiento se centrará en la adquisición de usuarios clave (abogados) y la creación de una base sólida de casos médicos relevantes en la plataforma para aumentar la retención y el uso recurrente. A largo plazo, podemos expandir nuestra plataforma para incluir otras especialidades médicas y explorar oportunidades de internacionalización. Además, podemos buscar asociaciones estratégicas con colegios de abogados y organizaciones de salud para consolidar nuestra presencia en el mercado y diversificar nuestras fuentes de ingresos.
 
 - ¿Cómo vamos a diferenciarnos de la competencia y crear una propuesta de valor única?
 
-Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para asistencia legal y educativa, así como oportunidades laborales específicas en este campo. Además, nos enfocaremos en brindar una experiencia de usuario excepcional y contenido de alta calidad para establecer nuestra plataforma como líder en el mercado de servicios de anestesiología.
+Nos diferenciaremos ofreciendo un sistema de coincidencia altamente preciso que conecta a los abogados con casos específicos a su especialización en medicina, garantizando que cada abogado pueda enfocarse en lo que mejor sabe hacer. Además, nos enfocaremos en brindar un servicio de alta calidad con una interfaz intuitiva y funcionalidades diseñadas para facilitar la gestión de casos legales complejos. Nuestra propuesta de valor única también incluirá acceso a recursos educativos y herramientas para el desarrollo profesional continuo, ayudando a los abogados a mantenerse a la vanguardia en el campo del derecho médico.
 
 **Business Outcomes**
 
-1. **Desarrollo de una comunidad especializada:** Con una base de 2650 usuarios potenciales esperamos que el 10% inicie sesión en tan solo 1 mes después de haber lanzado nuestra plataforma. Ya que al proporcionar servicios de asistencia y asesoramiento en el área médica de anestesiología, garantizamos que la plataforma pueda convertirse en un punto de encuentro para médicos, estudiantes de medicina y profesionales interesados en esta especialidad. Esto puede fomentar el intercambio de conocimientos, experiencias y oportunidades laborales dentro de la comunidad, creando un ambiente propicio para la colaboración y el networking. 
+1. **Desarrollo de una comunidad especializada:**
 
-2. **Generación de ingresos sostenibles:** Al ver la atencion recibida por parte de los usuarios potenciales podemos esperar 50 adquisiciones de nuestros servicios pagados, ya sea un plan de suscripcion o un pago inmediato dependiendo del caso. Esto logrará que la plataforma tenga la capacidad de generar ingresos recurrentes. Esto asegura una fuente estable de financiamiento que puede respaldar el crecimiento y la expansión de la plataforma a largo plazo. Además, al tener una base de clientes suscritos, se llevará una optima contabilidad de las ganancias, lo que contribuye a la estabilidad financiera del proyecto.
+Con una base inicial de 150 abogados potenciales, esperamos que al menos el 50% inicie sesión en nuestra plataforma dentro del primer mes después del lanzamiento. Al ofrecer una plataforma que facilita la conexión entre abogados especializados en medicina y doctores que enfrentan problemas legales, fomentamos la creación de una red robusta de profesionales del derecho y médicos. Esta comunidad permitirá el intercambio de conocimientos, experiencias y oportunidades legales, promoviendo la colaboración y el networking dentro del campo del derecho médico.
 
-3. **Impacto positivo en la industria médica:** Al proporcionar acceso a servicios de asistencia y asesoramiento especializados en anestesiología, la plataforma puede contribuir significativamente a mejorar la práctica médica en este campo. Esperamos llegar a 530 usuarios (entre médicos y estudiantes), ya que al ofrecer defensa legal a médicos y asesoramiento a estudiantes de medicina interesados en la especialidad de peritaje en anestesiología, tu proyecto puede ayudar a mejorar la calidad de la atención médica y a garantizar estándares más altos en esta área crucial de la medicina. Este impacto positivo no solo beneficia a los individuos directamente involucrados, sino que también puede tener repercusiones más amplias en la comunidad médica en general.
+2. **Generación de ingresos sostenibles:**
+
+Con una respuesta positiva de los usuarios potenciales, esperamos alcanzar al menos 40 adquisiciones de nuestros servicios pagados, ya sea a través de planes de suscripción para abogados o pagos por acceso a casos específicos. Este nivel de adquisición permitirá a la plataforma generar ingresos recurrentes y estables, proporcionando una base sólida para financiar el crecimiento y la expansión a largo plazo. La gestión adecuada de las suscripciones y pagos contribuirá a una contabilidad óptima y a la estabilidad financiera del proyecto.
+
+3. **Impacto positivo en el ámbito legal médico:**
+
+Al ofrecer servicios de conexión y asesoramiento legal especializados, la plataforma puede tener un impacto significativo en la práctica del derecho médico. Esperamos alcanzar a los 150 usuarios activos, ayudando a mejorar la calidad de la defensa legal para médicos y proporcionando recursos valiosos para los abogados especializados en medicina. Este impacto positivo no solo beneficia a los usuarios directos, sino que también contribuye a elevar los estándares y la eficacia en la defensa de casos médicos, con posibles repercusiones amplias en la comunidad legal médica.
 
 **Features Outcomes**
 
-1. **Acceso a Asistencia Especializada:**
+1. **Acceso a Casos Legales Especializados:**
 
-   - **Chat en vivo con expertos:** Implementar una función de chat en vivo que permita a los usuarios comunicarse directamente con expertos en anestesiología para obtener asesoramiento inmediato y específico.
-   - **Biblioteca de recursos:** Desarrollar una sección de la plataforma que contenga una amplia variedad de recursos, como artículos, estudios de casos y preguntas frecuentes, que los usuarios puedan consultar para obtener información detallada sobre temas relacionados con la anestesiología y el peritaje.
+   - **Sistema de coincidencia avanzado:** Implementar una función que utilice un algoritmo para emparejar automáticamente a los abogados con casos que coincidan con su especialización médica, permitiéndoles acceder rápidamente a los casos más relevantes para sus habilidades y experiencia.
 
-2. **Oportunidades Laborales:**
+   - **Base de datos de casos legales:** Desarrollar una sección en la plataforma que contenga un repositorio detallado de casos legales pasados y actuales, incluyendo información sobre la especialidad médica involucrada, lo que permitirá a los abogados estudiar precedentes y prepararse mejor para nuevos casos.
 
-   - **Tablero de empleo y proyectos:** Crear un espacio dedicado en la plataforma donde los usuarios puedan buscar y postularse a oportunidades laborales, como trabajos permanentes, proyectos freelance o posiciones de consultoría en el campo de la anestesiología.
-   - **Perfiles profesionales:** Permitir a los usuarios crear perfiles profesionales detallados que muestren su experiencia, habilidades y disponibilidad laboral, facilitando así la búsqueda y selección por parte de posibles empleadores o clientes.
+2. **Conexión con Doctores Necesitados de Defensa Legal**
 
-3. Educación y Orientación Profesional:
+   - **Perfil de abogado especializado:** Permitir a los abogados crear perfiles profesionales completos que destaquen su experiencia en áreas específicas del derecho médico, facilitando que los doctores encuentren y seleccionen al abogado que mejor se adapte a sus necesidades legales.
 
-   - **Sesiones de orientación en línea:** Organizar sesiones regulares de orientación en línea dirigidas por expertos en anestesiología, donde los usuarios puedan aprender sobre diversos aspectos del peritaje y hacer preguntas en tiempo real.
-   - **Foro de discusión y mentoría:** Establecer un espacio de discusión en la plataforma donde los usuarios puedan interactuar entre ellos y con profesionales experimentados en el campo, compartiendo conocimientos, experiencias y consejos útiles.
+   - **Sistema de comunicación segura:** Implementar una función de mensajería segura dentro de la plataforma que permita a los abogados y doctores comunicarse de manera confidencial y eficiente, asegurando la privacidad y protección de la información compartida.
+
+3. **Educación y Crecimiento Profesional:**
+
+   - **Webinars y seminarios online:** Organizar sesiones regulares en línea dirigidas por expertos en derecho médico, donde los abogados puedan aprender sobre nuevas tendencias, cambios normativos, y mejores prácticas en la defensa de casos médicos, permitiéndoles mantenerse actualizados en su campo.
+
+   - **Red de mentoría legal:** Establecer un foro o comunidad en la plataforma donde los abogados puedan interactuar entre sí y con mentores experimentados, compartiendo consejos, estrategias legales, y apoyo profesional para mejorar sus habilidades y conocimientos en derecho médico.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. **Creemos que lograremos** un aumento en la aceptacion de nuestra plataforma y una mejor satisfacción del usuario **si** los problemas de los médicos y estudiantes de medicina se ven solucionados o atendidos. **Al obtener** acceso directo a peritos en anestesiología para asistencia legal y educativa, **con la implementación** de una función de chat en vivo con expertos en el caso solicitado por el usuario, se podrá dar solucion al caso presentado.
-2. **Creemos que lograremos** una mayor retención de usuarios y una mayor rentabilidad del negocio **si** los usuarios valoran la flexibilidad y la accesibilidad en las opciones de suscripción para acceder a servicios especializados. **Al proporcionar** opciones de suscripción flexibles y asequibles para acceder a servicios especializados en nuestra plataforma, **con la optimización** de nuestra oferta de suscripción después de realizar pruebas piloto con diferentes modelos y comprender las preferencias de los usuarios.
-3. **Creemos que logaremos** fortalecer nuestra posición en el mercado y aumentaremos la confianza de los usuarios **si** estos perciben que nuestra plataforma ofrece valor adicional a través de asociaciones estratégicas. **Al establecer** asociaciones estratégicas con instituciones médicas y empresas del sector de la salud para ofrecer servicios adicionales, **con la identificación** y el contacto de posibles socios, y la realización de pruebas piloto de programas de formación continua.
-4. **Creemos que lograremos** aumentar la satisfacción del usuario, la fidelidad a nuestra marca y el boca a boca positivo **si** los usuarios experimentan una mejor experiencia de usuario con nuestra plataforma. **Al mejorar** la navegación y la accesibilidad de nuestra plataforma basándonos en pruebas de usabilidad y recopilación de testimonios directos de usuarios, **con la implementación** de mejoras en la navegación y accesibilidad de nuestra plataforma.
-5. **Creemos que** impulsaremos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los usuarios objetivo se familiarizan con nuestra plataforma a través de campañas de marketing dirigidas. **Al realizar** campañas de marketing piloto dirigidas a los respectivos segmentos de usuarios , **con la realización** de campañas de marketing piloto y la adaptación de nuestra estrategia de marketing seguiremos una mejora según los resultados obtenidos.
+1. **Creemos que** lograremos un aumento en la aceptación de nuestra plataforma y una mejor satisfacción del usuario si los abogados y doctores encuentran que los problemas legales se resuelven de manera efectiva. Al proporcionar acceso directo a casos legales relevantes y una función de comunicación segura para la interacción entre abogados y doctores, con la implementación de un sistema de coincidencia avanzada y una mensajería segura, se podrán resolver los casos de manera más eficiente y efectiva.
+
+2. **Creemos que** lograremos una mayor retención de abogados y una mayor rentabilidad del negocio si los usuarios valoran la flexibilidad y el valor de las opciones de suscripción para acceder a casos legales especializados. Al ofrecer planes de suscripción flexibles y ajustados a las necesidades específicas de los abogados, con la optimización de nuestras opciones de suscripción basado en pruebas piloto y la retroalimentación de los usuarios, se mejorará la satisfacción y la fidelidad de los usuarios. 
+
+3. **Creemos que** lograremos fortalecer nuestra posición en el mercado y aumentar la confianza de los usuarios si los usuarios perciben que nuestra plataforma ofrece valor adicional a través de asociaciones estratégicas. Al establecer asociaciones con bufetes de abogados y organizaciones del sector médico para ofrecer casos relevantes y servicios complementarios, con la identificación de socios clave y la realización de pruebas piloto de estas asociaciones, se aumentará el valor y la confianza en nuestra plataforma.
+
+4. **Creemos que** lograremos aumentar la satisfacción del usuario, la lealtad a nuestra marca y el boca a boca positivo si los usuarios tienen una experiencia de usuario fluida y eficiente en nuestra plataforma. Al mejorar la navegación y accesibilidad de la plataforma basándonos en pruebas de usabilidad y feedback de los usuarios, con la implementación de mejoras en la interfaz de usuario y la experiencia general, se incrementará la satisfacción y la retención de los usuarios.
+
+5. **Creemos que** lograremos impulsar el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma si los abogados y doctores se familiarizan con nuestra oferta a través de campañas de marketing dirigidas. Al ejecutar campañas de marketing dirigidas a abogados y profesionales médicos en sectores específicos, con la realización de campañas piloto y la adaptación de nuestras estrategias de marketing según los resultados obtenidos, se aumentará la visibilidad y atracción de la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -220,8 +239,6 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 
 Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
 
-Segmento 1: Para nuestro primer segmento objetivo está compuesto por médicos que buscan asistencia legal especializada de parte de nuestros abogados expertos en medicina legal. Este grupo incluye a profesionales médicos de diversas especialidades, desde médicos generales hasta cirujanos y especialistas en áreas específicas como la obstetricia, la oncología o la neurología.
+Segmento 1: El primer segmento objetivo para nuestra startup son los abogados especializados en derecho médico. Estos abogados, ya sean experimentados en esta área o buscando especializarse, necesitan acceso a una base de datos que ofrezca casos médicos específicos relacionados con mala praxis o negligencia médica. Además, buscan herramientas para gestionar y comunicarse con sus clientes de manera eficiente y segura, y desean oportunidades de crecimiento profesional en el campo del derecho médico. Para atender a este segmento, ofreceremos un sistema de coincidencia avanzada para emparejar casos con abogados según su especialización, recursos educativos y programas de formación continua, y funciones que faciliten la administración de casos y la comunicación segura.
 
-Estos médicos enfrentan una serie de desafíos legales en su práctica clínica diaria, que van desde cuestiones relacionadas con la responsabilidad profesional y la mala praxis médica hasta la interpretación de regulaciones y normativas sanitarias. La complejidad creciente del entorno legal y regulatorio en el que operan los profesionales de la salud hace que sea fundamental contar con asesoramiento legal sólido y especializado.
-
-Segmento 2: Este segmento objetivo estará compuesto por estudiantes de medicina, residentes, internos y practicantes recién graduados que buscan adquirir nuestras suscripciones para obtener acceso a consultas legales especializadas en medicina. Estos individuos están en las primeras etapas de sus carreras médicas y reconocen la importancia de comprender el marco legal en el que operan como futuros profesionales de la salud.
+Segmento 2: El segundo segmento objetivo son los doctores que enfrentan problemas legales por mala praxis. Estos médicos necesitan encontrar abogados con experiencia específica en su especialidad médica para obtener defensa legal especializada. Buscan asesoría de alta calidad para resolver problemas legales complejos y desean sentirse respaldados y comprendidos en el contexto de su práctica. Para este segmento, proporcionaremos un directorio detallado de abogados especializados en medicina, un proceso de selección que alinee los casos con los abogados adecuados, y herramientas para una comunicación segura y eficaz entre doctores y abogados.
