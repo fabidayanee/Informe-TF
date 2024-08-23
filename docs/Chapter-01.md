@@ -4,15 +4,15 @@
 
 ### 1.1.1. Descripción de la StartUp
 
-Plataforma que conecte abogados especializados en Medicina con un amplio numero de doctores que se encuentren en problemas legales por alguna mala praxis o alguna posible negligencia medica, para que el abogado escoja a que doctor llevarle su caso, acorde a que rama de la medicina manejas mas el abogado.
+LEXMED es una aplicacion web que conecte abogados especializados en Medicina con un amplio numero de doctores que se encuentren en problemas legales por alguna mala praxis o alguna posible negligencia medica, para que el abogado escoja a que doctor llevarle su caso, acorde a que rama de la medicina manejas mas el abogado.
 
 Misión:
 
-- Nuestra misión se basa en apoyar a los médicos que necesitan dicha defensa en caso de presentarse en algún juicio y a su vez brindar oportunidades laborales a los médicos que deseen prestar sus servicios a sus colegas, mediante una solución tecnológica.
+- Nuestra misión se basa en brindar empleo a todos los abogados especializados en medicina dandoles la oportunidad de llevar muchos casos de problemas legales a los medicos que lo necesiten. 
 
 Visión (Metas a medio o largo plazo):
 
-- Poder asentarnos como la primera plataforma en nuestro país de defensa médica a los mismos trabajadores en el área de medicina.
+- Poder asentarnos como la primera y más conocida plataforma en nuestro país de defensa médica legal.
 
 ### 1.1.2. Perfiles de Integrantes del equipo
 
@@ -149,15 +149,15 @@ El producto debe tener una apariencia profesional, confiable y de alta calidad, 
 
 **User Outcomes**
 
-- Acceso a Casos Legales Especializados:
+- **Acceso a Casos Legales Especializados:**
 
 Los abogados que se registran en la plataforma buscan acceso fácil y rápido a casos legales que se alineen con su especialización en derecho médico. Este outcome se centra en la capacidad de los abogados para encontrar y seleccionar casos en los que puedan aplicar su experiencia específica, aumentando su eficacia y éxito en la defensa de médicos involucrados en problemas de mala praxis o negligencia.
 
-- Conexión con Doctores Necesitados de Defensa Legal:
+- **Conexión con Doctores Necesitados de Defensa Legal:**
 
 El outcome deseado para los abogados es la capacidad de identificar y conectarse con doctores que enfrentan problemas legales relacionados con su especialidad médica. Esto incluye la posibilidad de seleccionar casos donde su experiencia y conocimiento legal sean cruciales para la defensa. El éxito se mide por la efectividad de la plataforma para emparejar a los abogados con doctores cuyos casos requieren su intervención, optimizando así los recursos y maximizando las oportunidades de éxito.
 
-- Educación y Crecimiento Profesional:
+- **Educación y Crecimiento Profesional:**
 
 Para los abogados, el outcome deseado es mejorar su conocimiento sobre áreas específicas de la medicina que pueden ser críticas en sus casos, así como acceder a recursos y mentoría para mantenerse al día con las últimas tendencias y normativas en derecho médico. Esto les permitirá ofrecer una defensa más robusta y especializada. El éxito se evalúa por el aumento en la calidad de las defensas legales que los abogados pueden ofrecer y por su crecimiento profesional en el ámbito del derecho médico.
 
@@ -204,41 +204,47 @@ Al ofrecer servicios de conexión y asesoramiento legal especializados, la plata
    - **Sistema de coincidencia avanzado:** Implementar una función que utilice un algoritmo para emparejar automáticamente a los abogados con casos que coincidan con su especialización médica, permitiéndoles acceder rápidamente a los casos más relevantes para sus habilidades y experiencia.
 
    - **Base de datos de casos legales:** Desarrollar una sección en la plataforma que contenga un repositorio detallado de casos legales pasados y actuales, incluyendo información sobre la especialidad médica involucrada, lo que permitirá a los abogados estudiar precedentes y prepararse mejor para nuevos casos.
-
+<br>
 2. **Conexión con Doctores Necesitados de Defensa Legal**
-
+<br>
    - **Perfil de abogado especializado:** Permitir a los abogados crear perfiles profesionales completos que destaquen su experiencia en áreas específicas del derecho médico, facilitando que los doctores encuentren y seleccionen al abogado que mejor se adapte a sus necesidades legales.
 
    - **Sistema de comunicación segura:** Implementar una función de mensajería segura dentro de la plataforma que permita a los abogados y doctores comunicarse de manera confidencial y eficiente, asegurando la privacidad y protección de la información compartida.
-
+<br>
 3. **Educación y Crecimiento Profesional:**
-
+<br>
    - **Webinars y seminarios online:** Organizar sesiones regulares en línea dirigidas por expertos en derecho médico, donde los abogados puedan aprender sobre nuevas tendencias, cambios normativos, y mejores prácticas en la defensa de casos médicos, permitiéndoles mantenerse actualizados en su campo.
 
    - **Red de mentoría legal:** Establecer un foro o comunidad en la plataforma donde los abogados puedan interactuar entre sí y con mentores experimentados, compartiendo consejos, estrategias legales, y apoyo profesional para mejorar sus habilidades y conocimientos en derecho médico.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. **Creemos que** lograremos un aumento en la aceptación de nuestra plataforma y una mejor satisfacción del usuario si los abogados y doctores encuentran que los problemas legales se resuelven de manera efectiva. Al proporcionar acceso directo a casos legales relevantes y una función de comunicación segura para la interacción entre abogados y doctores, con la implementación de un sistema de coincidencia avanzada y una mensajería segura, se podrán resolver los casos de manera más eficiente y efectiva.
+1. **Creemos que lograremos** un aumento en la aceptación de nuestra plataforma y una mejor satisfacción del usuario **si** los abogados y doctores encuentran que los problemas legales se resuelven de manera efectiva. **Al proporcionar** acceso directo a casos legales relevantes y una función de comunicación segura para la interacción entre abogados y doctores, **con la implementación** de un sistema de coincidencia avanzada y una mensajería segura, se podrán resolver los casos de manera más eficiente y efectiva.
+<br>
 
-2. **Creemos que** lograremos una mayor retención de abogados y una mayor rentabilidad del negocio si los usuarios valoran la flexibilidad y el valor de las opciones de suscripción para acceder a casos legales especializados. Al ofrecer planes de suscripción flexibles y ajustados a las necesidades específicas de los abogados, con la optimización de nuestras opciones de suscripción basado en pruebas piloto y la retroalimentación de los usuarios, se mejorará la satisfacción y la fidelidad de los usuarios. 
+2. **Creemos que lograremos** una mayor retención de abogados y una mayor rentabilidad del negocio **si** los usuarios valoran la flexibilidad y el valor de las opciones de suscripción para acceder a casos legales especializados. **Al ofrecer** planes de suscripción flexibles y ajustados a las necesidades específicas de los abogados, **con la optimización** de nuestras opciones de suscripción basado en pruebas piloto y la retroalimentación de los usuarios, se mejorará la satisfacción y la fidelidad de los usuarios. 
+<br>
 
-3. **Creemos que** lograremos fortalecer nuestra posición en el mercado y aumentar la confianza de los usuarios si los usuarios perciben que nuestra plataforma ofrece valor adicional a través de asociaciones estratégicas. Al establecer asociaciones con bufetes de abogados y organizaciones del sector médico para ofrecer casos relevantes y servicios complementarios, con la identificación de socios clave y la realización de pruebas piloto de estas asociaciones, se aumentará el valor y la confianza en nuestra plataforma.
+3. **Creemos que lograremos** lograremos fortalecer nuestra posición en el mercado y aumentar la confianza de los usuarios **si** los usuarios perciben que nuestra plataforma ofrece valor adicional a través de asociaciones estratégicas.**Al establecer** asociaciones con bufetes de abogados y organizaciones del sector médico para ofrecer casos relevantes y servicios complementarios, **con la identificación** de socios clave y la realización de pruebas piloto de estas asociaciones, se aumentará el valor y la confianza en nuestra plataforma.
+<br>
 
-4. **Creemos que** lograremos aumentar la satisfacción del usuario, la lealtad a nuestra marca y el boca a boca positivo si los usuarios tienen una experiencia de usuario fluida y eficiente en nuestra plataforma. Al mejorar la navegación y accesibilidad de la plataforma basándonos en pruebas de usabilidad y feedback de los usuarios, con la implementación de mejoras en la interfaz de usuario y la experiencia general, se incrementará la satisfacción y la retención de los usuarios.
+4. **Creemos que lograremos** aumentar la satisfacción del usuario, la lealtad a nuestra marca y el boca a boca positivo **si** los usuarios tienen una experiencia de usuario fluida y eficiente en nuestra plataforma. **Al mejorar** la navegación y accesibilidad de la plataforma basándonos en pruebas de usabilidad y feedback de los usuarios, **con la implementación** de mejoras en la interfaz de usuario y la experiencia general, se incrementará la satisfacción y la retención de los usuarios.
+<br>
 
-5. **Creemos que** lograremos impulsar el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma si los abogados y doctores se familiarizan con nuestra oferta a través de campañas de marketing dirigidas. Al ejecutar campañas de marketing dirigidas a abogados y profesionales médicos en sectores específicos, con la realización de campañas piloto y la adaptación de nuestras estrategias de marketing según los resultados obtenidos, se aumentará la visibilidad y atracción de la plataforma.
+5. **Creemos que impulsaremos** el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los abogados y doctores se familiarizan con nuestra oferta a través de campañas de marketing dirigidas. **Al ejecutar** campañas de marketing dirigidas a abogados y profesionales médicos en sectores específicos, **con la realización** de campañas piloto y la adaptación de nuestras estrategias de marketing según los resultados obtenidos, se aumentará la visibilidad y atracción de la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
 
 - Mediante la realizacion Lean UX Canvas podemos mostrar todla informacion anterior pero de una manera resumida, didactica y mas accesible al lector. Tambien se resume la problematica que estamos abordando y la solucion que proponemos, junto con los supuestos de las hipotesis y los puntos mas importantes de las mismas.
 
-![Lean UX Canvas](<../assets/imgs/Lean UX Canvas Open Source.png>)
-
 ## 1.3. Segmento Objetivo
 
 Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
 
-Segmento 1: El primer segmento objetivo para nuestra startup son los abogados especializados en derecho médico. Estos abogados, ya sean experimentados en esta área o buscando especializarse, necesitan acceso a una base de datos que ofrezca casos médicos específicos relacionados con mala praxis o negligencia médica. Además, buscan herramientas para gestionar y comunicarse con sus clientes de manera eficiente y segura, y desean oportunidades de crecimiento profesional en el campo del derecho médico. Para atender a este segmento, ofreceremos un sistema de coincidencia avanzada para emparejar casos con abogados según su especialización, recursos educativos y programas de formación continua, y funciones que faciliten la administración de casos y la comunicación segura.
+**Segmento 1** 
 
-Segmento 2: El segundo segmento objetivo son los doctores que enfrentan problemas legales por mala praxis. Estos médicos necesitan encontrar abogados con experiencia específica en su especialidad médica para obtener defensa legal especializada. Buscan asesoría de alta calidad para resolver problemas legales complejos y desean sentirse respaldados y comprendidos en el contexto de su práctica. Para este segmento, proporcionaremos un directorio detallado de abogados especializados en medicina, un proceso de selección que alinee los casos con los abogados adecuados, y herramientas para una comunicación segura y eficaz entre doctores y abogados.
+El primer segmento objetivo para nuestra startup son los abogados especializados en derecho médico. Estos abogados, ya sean experimentados en esta área o buscando especializarse, necesitan acceso a una base de datos que ofrezca casos médicos específicos relacionados con mala praxis o negligencia médica. Además, buscan herramientas para gestionar y comunicarse con sus clientes de manera eficiente y segura, y desean oportunidades de crecimiento profesional en el campo del derecho médico. Para atender a este segmento, ofreceremos un sistema de coincidencia avanzada para emparejar casos con abogados según su especialización, recursos educativos y programas de formación continua, y funciones que faciliten la administración de casos y la comunicación segura.
+
+**Segmento 2**
+
+ El segundo segmento objetivo son los doctores que enfrentan problemas legales por mala praxis. Estos médicos necesitan encontrar abogados con experiencia específica en su especialidad médica para obtener defensa legal especializada. Buscan asesoría de alta calidad para resolver problemas legales complejos y desean sentirse respaldados y comprendidos en el contexto de su práctica. Para este segmento, proporcionaremos un directorio detallado de abogados especializados en medicina, un proceso de selección que alinee los casos con los abogados adecuados, y herramientas para una comunicación segura y eficaz entre doctores y abogados.
