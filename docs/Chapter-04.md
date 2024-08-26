@@ -162,3 +162,20 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 </p>
 
 <div align="center">
+
+## <a name="_iz4qizs6swks"></a> 4.3.2. Landing Page Mock-up. 
+## <a name="_7e2enm1mgr6i"></a>4.4. Web Applications UX/UI Design. 
+## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
+## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
+## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
+## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
+## <a name="_lyzx2drr86gc"></a>4.5. Web Applications Prototyping. 
+## <a name="_hz50yagu7m5q"></a>4.6. Domain-Driven Software Architecture. 
+## <a name="_t3sb1oh29o4"></a>4.6.1. Software Architecture Context Diagram. 
+## <a name="_5fz1o0cvreef"></a>4.6.2. Software Architecture Container Diagrams.
+## <a name="_wizgwkrppvhq"></a> 4.6.3. Software Architecture Components Diagrams. 
+## <a name="_kufr0eci0clw"></a>4.7. Software Object-Oriented Design. 
+## <a name="_ejguoxh1dv3c"></a>4.7.1. Class Diagrams. 
+## <a name="_iozec1h4w8kn"></a>4.7.2. Class Dictionary. 
+## <a name="_1jw3lfv4y1kg"></a>4.8. Database Design. 
+## <a name="_ukq702tfj7d5"></a>4.8.1. Database Diagram.
