@@ -9,18 +9,14 @@
 ### CICLO 2024-01
 
 Nombre del curso: Desarrollo de Aplicaciones Open-Source  
- Sección: WX55  
- Nombre del Profesor: Angel Augusto Velasquez Nuñez  
+ Sección: SW56 
+ Nombre del Profesor: Efraín Ricardo Bautista Ubillús   
  Nombre del StartUp: Testigos de Jehova  
- Nombre del Producto: MedicDefensed  
+ Nombre del Producto: LexMed 
 Relación de Integrantes:
 
 - Vasquez Requejo, Augusto Mathias Leonardo - U20221A955
-- Garcia Rodriguez, Gabriel Stefano - U202018627
-- Noriega Suschenko, Anatoly Andrey - U202211813
-- Flores Avalos, Diego - U20221B394
-- Apaza Morales, Fabricio - U201922146
-- Avellaneda Ramos, Carlos - u201923994
+- Ticona Panduro, Estrella del Pilar - U202210659
 
 ## Historial de Versiones
 
@@ -33,19 +29,19 @@ Relación de Integrantes:
   <tr>
     <td colspan="3">1era</td>
     <td colspan="3">29/03/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Estrella del Pilar Ticona Panduro</td>
     <td colspan="5">Carátula, CapítuloI, Capítulo II</td>
   </tr>
   <tr>
     <td colspan="3">2da</td>
     <td colspan="3">5/04/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo </td>
     <td colspan="5">CapítuloIII, Capítulo IV</td>
   </tr>
   <tr>
     <td colspan="3">3ra</td>
     <td colspan="3">12/04/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo,</td>
     <td colspan="5">Capítulo V, Desarrollo Landing Page</td>
   </tr>
   <tr>
