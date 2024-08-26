@@ -16,7 +16,8 @@ La elección del logotipo de LEXMed se basa en la necesidad de comunicar clarame
 - Colores y Estética: Los colores utilizados en el logotipo, predominantemente verde y blanco, están asociados con la salud, la pureza y la tranquilidad. Estos colores refuerzan la imagen de LEXMed como una plataforma confiable, ética y dedicada al bienestar de sus usuarios.
 
 En conjunto, este logotipo no solo es una representación visual atractiva, sino que también encapsula la esencia de lo que LEXMed representa: la unión armoniosa entre la medicina y el derecho para asegurar que se haga justicia con integridad y profesionalismo.
+<p align="center">
+  <img src="img/logo.png" alt="Colores" width="50%">
+</p>
 
-
-
-![](Aspose.Words.ee086f81-d909-4049-8cda-919d35d0b65b.001.png)
+<div align="center">
