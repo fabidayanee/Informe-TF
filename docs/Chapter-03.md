@@ -396,6 +396,17 @@ para tratar con él u opinar de sus servicios.</td>
     <br><br>THEN se debe obtener el asunto legal que coincida con el ID solicitado.</td>
     <td>EP06</td>
     </tr>
+    <tr>
+    <td>HU37</td>
+    <td>Envío de mensajes entre médicos y abogados</td>
+    <td>Como médico o abogado quiero enviar mensajes a través de la plataforma para discutir detalles del caso.</td>
+    <td>Scenario: Envío de mensajes<br>
+    <br>GIVEN que el médico y el abogado están en la plataforma,<br>
+    <br>WHEN uno de ellos envía un mensaje al otro,<br>
+    <br>AND el mensaje es recibido por la otra parte,<br>
+    <br>THEN el sistema debe notificar al destinatario del mensaje recibido.</td>
+    <td>EP04</td>
+    </tr>
 </table>
     
 
