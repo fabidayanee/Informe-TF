@@ -407,6 +407,29 @@ para tratar con él u opinar de sus servicios.</td>
     <br>THEN el sistema debe notificar al destinatario del mensaje recibido.</td>
     <td>EP04</td>
     </tr>
+    <tr>
+    <td>HU38</td>
+    <td>Evaluación de la calidad del servicio por parte del médico</td>
+    <td>Como médico quiero evaluar la calidad del servicio del abogado después de completar el caso.</td>
+    <td>Scenario: Evaluación del servicio<br>
+    <br>GIVEN que el caso ha sido cerrado,<br>
+    <br>WHEN el médico accede a la sección de evaluaciones,<br>
+    <br>AND deja una evaluación sobre el abogado,<br>
+    <br>THEN el sistema debe registrar la evaluación y mostrarla en el perfil del abogado.</td>
+    <td>EP04</td>
+    </tr>
+    <tr>
+    <td>HU39</td>
+    <td>Respuesta a solicitudes de contacto de abogados</td>
+    <td>Como médico quiero responder a las solicitudes de contacto de los abogados interesados en mi caso.</td>
+    <td>Scenario: Respuesta a solicitudes de contacto<br>
+    <br>GIVEN que el médico ha recibido solicitudes de contacto de abogados,<br>
+    <br>WHEN accede a las solicitudes,<br>
+    <br>AND responde a la(s) solicitud(es) elegida(s),<br>
+    <br>THEN el sistema debe notificar a los abogados sobre la respuesta del médico.</td>
+    <td>EP04</td>
+    </tr>
+    
 </table>
     
 
