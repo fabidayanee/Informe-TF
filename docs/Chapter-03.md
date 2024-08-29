@@ -282,10 +282,10 @@ para tratar con él u opinar de sus servicios.</td>
     </tr>
     <tr>
     <td>HU28</td>
-    <td>Creación y Gestión de Entidad de Usuario Médico/Estudiante</td>
-    <td>Como desarrollador, quiero crear la entidad de usuario que represente tanto a médicos como a estudiantes de medicina en la plataforma, para asegurar que todos los atributos necesarios estén disponibles para cada tipo de usuario.
+    <td>Creación y Gestión de Entidad de Usuario Médico</td>
+    <td>Como desarrollador, quiero crear la entidad de usuario que represente a médicos en la plataforma, para asegurar que todos los atributos necesarios estén disponibles para cada tipo de usuario.
 </td>
-    <td>Scenario: Creación de la entidad de usuario<br><br>GIVEN el desarrollador quiere representar tanto a médicos como a estudiantes de medicina en el sistema para asegurar los atributos necesarios para cada tipo de usuario,<br><br>WHEN define y crea la entidad de usuario con atributos comunes como ID, nombre, especialidad, correo electrónico, contraseña, entre otros,<br><br>THEN la entidad de usuario está disponible en el sistema para ser utilizada en otras funcionalidades de la plataforma.<br><br>Scenario: Gestión de usuarios médicos/estudiantes<br><br>GIVEN el desarrollador quiere gestionar la información de médicos y estudiantes registrados para gestionar su información,<br><br>WHEN se implementa la funcionalidad para añadir, actualizar y eliminar usuarios a través de endpoints dedicados,<br><br>THEN los administradores pueden realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la información de médicos y estudiantes de manera eficiente y segura.</td>
+    <td>Scenario: Creación de la entidad de usuario<br><br>GIVEN el desarrollador quiere representar a médicos en el sistema para asegurar los atributos necesarios para cada tipo de usuario,<br><br>WHEN define y crea la entidad de usuario con atributos comunes como ID, nombre, especialidad, correo electrónico, contraseña, entre otros,<br><br>THEN la entidad de usuario está disponible en el sistema para ser utilizada en otras funcionalidades de la plataforma.<br><br>Scenario: Gestión de usuarios médicos<br><br>GIVEN el desarrollador quiere gestionar la información de médicos registrados para gestionar su información,<br><br>WHEN se implementa la funcionalidad para añadir, actualizar y eliminar usuarios a través de endpoints dedicados,<br><br>THEN los administradores pueden realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la información de médicos de manera eficiente y segura.</td>
     <td>EP06</td>
     </tr>
     <tr>
@@ -297,16 +297,16 @@ para tratar con él u opinar de sus servicios.</td>
     </tr>
     </tr>
     <td>HU30</td>
-    <td>Creación y Gestión de Recursos Educativos</td>
-    <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
-    <td>Scenario: Creación de recursos educativos.
-    <br><br>GIVEN el desarrollador necesita añadir un nuevo recurso educativo,
+    <td>Creación y Gestión de Recursos Informativos</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos informativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+    <td>Scenario: Creación de recursos informativos.
+    <br><br>GIVEN el desarrollador necesita añadir un nuevo recurso informativo,
     <br><br>WHEN el desarrollador envía los detalles del recurso a través del endpoint de creación,
-    <br><br>THEN el recurso educativo se almacena correctamente en la base de datos.
-    <br><br>Scenario: Eliminación de recursos educativos
-    <br><br>GIVEN el desarrollador necesita eliminar un recurso educativo,
+    <br><br>THEN el recurso informativo se almacena correctamente en la base de datos.
+    <br><br>Scenario: Eliminación de recursos informativos
+    <br><br>GIVEN el desarrollador necesita eliminar un recurso informativo,
     <br><br>WHEN el desarrollador envía una solicitud de eliminación a través del endpoint correspondiente,
-    <br><br>THEN el recurso educativo se elimina correctamente de la base de datos.</td>
+    <br><br>THEN el recurso informativo se elimina correctamente de la base de datos.</td>
     <td>EP06</td>
     </tr>
     <tr>
@@ -428,8 +428,291 @@ para tratar con él u opinar de sus servicios.</td>
     <br>AND responde a la(s) solicitud(es) elegida(s),<br>
     <br>THEN el sistema debe notificar a los abogados sobre la respuesta del médico.</td>
     <td>EP04</td>
-    </tr>
-    
+    </tr>    
 </table>
-    
 
+    
+## 3.4. Product Backlog
+
+<table>
+    <tr>
+        <th>Orden</th>
+        <th>User Story/Technical Story Id</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>US29</td>
+        <td>Gestión de Suscripciones</td>
+        <td>Como desarrollador, quiero implementar la gestión de suscripciones para que los usuarios puedan ver, seleccionar y administrar sus planes de suscripción en la plataforma.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>US26</td>
+        <td>Implementación de la funcionalidad de búsqueda de abogados</td>
+        <td>Como desarrollador, quiero agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>US19</td>
+        <td>Base de datos de usuarios</td>
+        <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>US18</td>
+        <td>Integración de pagos</td>
+        <td>Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+        <td>2</td>
+    </tr>
+   <tr>
+        <td>5</td>
+        <td>US17</td>
+        <td>Sección de inicio</td>
+        <td>Como visitante de la landing page de LEXMED, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>US16</td>
+        <td>Sección de Creadores</td>
+        <td>Como visitante de la landing page de LEXMED, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>US15</td>
+        <td>Sección about us</td>
+        <td>Como visitante de la landing page de LEXMED, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>US11</td>
+        <td>Postulación a un caso por parte de un abogado</td>
+        <td>Como abogado quiero postularme para representar un caso específico publicado por un médico.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>US10</td>
+        <td>Notificación de nuevos casos al abogado</td>
+        <td>Como abogado quiero recibir una notificación cuando un nuevo caso relacionado con mi área de especialización es publicado.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>US05</td>
+        <td>Notificación al médico sobre el interés de un abogado</td>
+        <td>Como médico quiero recibir una notificación cuando un abogado se interese en mi caso.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>US02</td>
+        <td>Solicitud de casos por parte de un abogado</td>
+        <td>Como abogado especializado en derecho médico solicito recibir casos relacionados con mi área de expertise.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>US01</td>
+        <td>Registro de un nuevo abogado especializado</td>
+        <td>Como abogado especializado en derecho médico quiero registrarme en la plataforma LEXMED para ofrecer mis servicios.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>US39</td>
+        <td>Respuesta a solicitudes de contacto de abogados</td>
+        <td>Como médico quiero responder a las solicitudes de contacto de los abogados interesados en mi caso.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>US38</td>
+        <td>Evaluación de la calidad del servicio por parte del médico</td>
+        <td>Como médico quiero evaluar la calidad del servicio del abogado después de completar el caso.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>US24</td>
+        <td>Soporte para Múltiples Navegadores</td>
+        <td>Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores para una experiencia de usuario uniforme.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>US33</td>
+        <td>Obtener una Notificación por ID</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>US32</td>
+        <td>Crear una Nueva Notificación</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>US31</td>
+        <td>Obtener Todas las Notificaciones</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>US25</td>
+        <td>Configuración de la Base de Datos</td>
+        <td>Como desarrollador, quiero diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>US20</td>
+        <td>API para gestión de perfiles</td>
+        <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>US12</td>
+        <td>Confirmación de recepción de documentos del caso</td>
+        <td>Como médico quiero confirmar que he recibido los documentos enviados por un abogado.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>US14</td>
+        <td>Creación de la landing page</td>
+        <td>Como usuario quiero acceder a una página de inicio que presenta información relevante sobre LEXMED y sus servicios.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>US07</td>
+        <td>Actualización de perfil del abogado</td>
+        <td>Como abogado quiero actualizar mi perfil con información adicional o correcciones.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>US06</td>
+        <td>Generación de reporte de casos y abogados</td>
+        <td>Como administrador quiero generar un reporte de todos los casos médicos y abogados registrados en la plataforma.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>US03</td>
+        <td>Subida de un caso médico</td>
+        <td>Como médico quiero subir mi caso relacionado con una posible negligencia médica en la plataforma para que los abogados puedan verlo.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>US37</td>
+        <td>Envío de Mensajes entre Médicos y Abogados</td>
+        <td>Como médico o abogado, quiero enviar mensajes a través de la plataforma para discutir detalles del caso.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>US36</td>
+        <td>Creación y Gestión de Asuntos Legales</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan gestionar los asuntos legales.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>US35</td>
+        <td>Creación y Gestión de Recursos de Consultas</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>US34</td>
+        <td>Creación y Gestión de Recursos de Casos Legales</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>US30</td>
+        <td>Creación y Gestión de Recursos Informativos</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos informativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>US28</td>
+        <td>Creación y Gestión de Entidad de Usuario Médico</td>
+        <td>Como desarrollador, quiero crear la entidad de usuario que represente a médicos en la plataforma.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>US27</td>
+        <td>Creación y Gestión de la Entidad de Abogados</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de la entidad de abogados en la base de datos para almacenar información detallada de los abogados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>US23</td>
+        <td>Servicio de notificaciones</td>
+        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>US22</td>
+        <td>API para búsqueda por filtros</td>
+        <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>US21</td>
+        <td>Logging de Actividades</td>
+        <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>US13</td>
+        <td>Registro de un nuevo caso por un médico</td>
+        <td>Como médico quiero crear un nuevo caso en la plataforma LEXMED para su revisión.</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>US09</td>
+        <td>Búsqueda de abogados por especialización</td>
+        <td>Como médico quiero buscar abogados especializados en un área específica para su caso.</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>US08</td>
+        <td>Filtrado de casos por área de especialización</td>
+        <td>Como abogado quiero filtrar los casos médicos en la plataforma según su área de especialización.</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>US04</td>
+        <td>Evaluación de casos por parte de los abogados</td>
+        <td>Como abogado quiero evaluar casos médicos publicados en la plataforma para decidir si deseo tomar el caso.</td>
+        <td>8</td>
+    </tr>
+</table>
