@@ -6,3 +6,6 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
 
 **_Segmento Objetivo 1: Abogados especializados en derecho médico_**
 ![alt text](<https://raw.githubusercontent.com/LexMedd/Informe-TF/Chapter-03/assets/imgs/TOBE%20scenario%20abogados.jpeg>)
+
+**_Segmento Objetivo 2: Doctores que enfrentan problemas legales por mala praxis_**
+![alt text](<https://raw.githubusercontent.com/LexMedd/Informe-TF/Chapter-03/assets/imgs/TOBE%20scenario%20doctores.jpeg>)
