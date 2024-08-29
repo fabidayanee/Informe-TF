@@ -309,6 +309,93 @@ para tratar con él u opinar de sus servicios.</td>
     <br><br>THEN el recurso educativo se elimina correctamente de la base de datos.</td>
     <td>EP06</td>
     </tr>
+    <tr>
+    <td>HU31</td>
+    <td>Obtener todas las notificaciones</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+    <td>Scenario: Obtenención de todas las notificaciones
+    <br><br>GIVEN el desarrollador necesita obtener todas las notificaciones,
+    <br><br>WHEN el desarrollador realiza una solicitud GET a '/notifications',
+    <br><br>THEN todas las notificaciones almacenadas en la base de datos se deben devolver en formato JSON.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU32</td>
+    <td>Crear una nueva notificación</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+    <td>Scenario: Creación de una nueva notificación
+    <br><br>GIVEN el desarrollador necesita crear una nueva notificación,
+    <br><br>WHEN el desarrollador realiza una solicitud POST a '/notifications' con los detalles de la notificación en el cuerpo de la solicitud,
+    <br><br>THEN se debe crear una nueva notificación en la base de datos y devolver un mensaje de confirmación junto con los detalles de la notificación creada.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU33</td>
+    <td>Obtener una notificación por ID</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
+    <td>Scenario: Obtenención de notificación por ID
+    <br><br>GIVEN el desarrollador necesita crear una notificación por ID,
+    <br><br>WHEN el desarrollador realiza una solicitud GET a '/notifications/{id}' con un identificador de notificación válido,
+    <br><br>THEN se deben devolver los detalles de la notificación correspondiente en formato JSON.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU34</td>
+    <td>Creación y gestión de recursos de casos legales</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan
+    gestionar los casos legales.</td>
+    <td>Scenario: Crear un caso legal
+    <br><br>GIVEN el desarrollador necesita crear una nuevo caso legal,
+    <br><br>WHEN el desarrollador realiza una solicitud POST con los detalles del caso legal,
+    <br><br>THEN se debe crear un nuevo caso legal en la base de datos.
+    <br><br>Scenario: Obtener todos los casos legales
+    <br><br>GIVEN el desarrollador necesita obtener los casos legales,
+    <br><br>WHEN el desarrollador realiza una solicitud GET,
+    <br><br>THEN se debe devolver todos los casos legales existentes.
+    <br><br>Scenario: Obtener de los casos legales por status
+    <br><br>GIVEN el desarrollador necesita obtener los casos legales por status,
+    <br><br>WHEN el desarrollador realiza una solicitud GET con el detalle de status,
+    <br><br>THEN se debe devolver todos los casos legales existentes que coincidan con el status solicitado.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU35</td>
+    <td>Creación y gestión de recursos de consultas</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan
+    gestionar las consultas necesarias.</td>
+    <td>Scenario: Crear una consulta
+    <br><br>GIVEN el desarrollador necesita crear una nueva consulta,
+    <br><br>WHEN el desarrollador realiza una solicitud POST con los detalles de la consulta,
+    <br><br>THEN se debe crear una nueva consulta en la base de datos.
+    <br><br>Scenario: Obtener las consultas
+    <br><br>GIVEN el desarrollador necesita obtener las consultas,
+    <br><br>WHEN el desarrollador realiza una solicitud GET,
+    <br><br>THEN se debe devolver todas las consultas existentes.
+    <br><br>Scenario: Eliminar las consultas
+    <br><br>GIVEN el desarrollador necesita eliminar una consulta,
+    <br><br>WHEN el desarrollador realiza una solicitud DELETE con el ID de la consulta,
+    <br><br>THEN se debe eliminar la consulta existente que coincida con el ID solicitado.</td>
+    <td>EP06</td>
+    </tr>
+    <tr>
+    <td>HU36</td>
+    <td>Creación y gestión de asuntos legales</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan
+    gestionar los asuntos legales.</td>
+    <td>Scenario: Crear un asunto legal
+    <br><br>GIVEN el desarrollador necesita crear un nuevo asunto legal,
+    <br><br>WHEN el desarrollador realiza una solicitud POST con los detalles del asunto legal,
+    <br><br>THEN se debe crear un nuevo asunto legal en la base de datos.
+    <br><br>Scenario: Obtener los asuntos legales
+    <br><br>GIVEN el desarrollador necesita obtener los asuntos legales,
+    <br><br>WHEN el desarrollador realiza una solicitud GET,
+    <br><br>THEN se debe devolver todas los asuntos legales existentes.
+    <br><br>Scenario: Obtener asunto legal por ID
+    <br><br>GIVEN el desarrollador necesita obtner un solo asunto legal,
+    <br><br>WHEN el desarrollador realiza una solicitud GET con el ID del asunto legal,
+    <br><br>THEN se debe obtener el asunto legal que coincida con el ID solicitado.</td>
+    <td>EP06</td>
+    </tr>
 </table>
     
 
