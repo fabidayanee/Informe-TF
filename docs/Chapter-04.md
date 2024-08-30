@@ -159,11 +159,20 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
   <img src="img/uno.png" alt="Colores" width="100%">
   <img src="img/dos.png" alt="Colores" width="100%">
   <img src="img/tres.png" alt="Colores" width="100%">
+   <img src="img/cuatro.png" alt="Colores" width="100%">
 </p>
 
 <div align="center">
 
 ## <a name="_iz4qizs6swks"></a> 4.3.2. Landing Page Mock-up. 
+<p align="center">
+  <img src="img/uni.png" alt="Colores" width="100%">
+  <img src="img/dosi.png" alt="Colores" width="100%">
+  <img src="img/treci.png" alt="Colores" width="100%">
+   <img src="img/cuatri.png" alt="Colores" width="100%">
+</p>
+
+<div align="center">
 ## <a name="_7e2enm1mgr6i"></a>4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
